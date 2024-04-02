@@ -1,0 +1,10 @@
+<document>
+<head>
+    <title>Loading...</title>
+</head>
+<body>
+    <div>
+        <h2>Loading...</h2>
+    </div>
+</body>
+</document>
